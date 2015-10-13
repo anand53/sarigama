@@ -1,3 +1,9 @@
 hi jello
 hello
 hi
+hello
+hellowsjnkjsbq
+test line >> anand.txt
+hi hello
+git status
+echo test line
