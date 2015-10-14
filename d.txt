@@ -1,2 +1,7 @@
 hi hello
+<<<<<<< HEAD
 hi ra how r u 123
+=======
+hi ra how r u 1
+iii
+>>>>>>> a
